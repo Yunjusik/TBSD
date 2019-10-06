@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
 
-''' Flip Bit mutation implementation. '''
+''' Modified Flip Bit mutation implementation. '''
 
 from random import random, uniform, choice
 
@@ -30,6 +30,7 @@ class FlipBitMutation(Mutation):
 
   #  def setdata(self, NodeTrust):
    #     self.NodeTrust = NodeTrust
+    # node trust input
 
     def mutate(self, individual, engine):
         ''' Mutate the individual.
