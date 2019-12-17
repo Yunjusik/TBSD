@@ -1,5 +1,5 @@
 # TBSD
-trust based shard distribution algorithm
+trust based shard distribution algorithm with GAFT
 
 GAFT's mutation process has been changed to our purpose
 
